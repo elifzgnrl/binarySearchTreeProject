@@ -1,6 +1,6 @@
 # binarySearchTreeProject
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde Veri Yapıları ve Algoritmalar dersi için hazırlanmış bir 
+Bu repo Veri Yapıları ve Algoritmalar dersi için hazırlanmış bir 
 Binary-Search-Tree Projesidir.
 
 Binary-Search-Tree ana mantığı;
